@@ -6,3 +6,13 @@ All the events will be generated in the Lab and no real interface will be availa
 
 # Requirements
 ![alt text](https://raw.githubusercontent.com/srsaidas/Industrial-Machine-State-Monitoring-System/master/image/mag3.png)
+## Station (STA)
+The block diagram for a station which should be capable of the following feature
+* Senses the temperature and humidity of the surrounding area. 
+* Transmit temperate and humidity data to Gateway through WiFi
+![alt text](https://raw.githubusercontent.com/srsaidas/Industrial-Machine-State-Monitoring-System/master/image/sta.png)
+## Gateway
+Every station is connected to gateway and gateway is connected to internet. It provides and Isolation between the Internet and the local systems. Gateway is capable of the following feature
+* Collect data send by the station
+* Process the data 
+* Send necessary data to the cloud 
