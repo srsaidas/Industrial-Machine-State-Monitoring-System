@@ -16,3 +16,7 @@ Every station is connected to gateway and gateway is connected to internet. It p
 * Collect data send by the station
 * Process the data 
 * Send necessary data to the cloud 
+
+~Thanks
+
+[Saidas S R!](https://www.linkedin.com/in/saidassr/)
